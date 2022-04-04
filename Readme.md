@@ -1,0 +1,1 @@
+Este readme é para melhorar o uso do git.
